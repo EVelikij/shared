@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Common
 {
-    interface IProduct
+    public interface IProduct
     {
         String Name { get; set; }
     }
